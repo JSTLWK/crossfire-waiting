@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: bender;
+  src: url('/fonts/bender_black.otf');
+}
